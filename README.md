@@ -9,3 +9,9 @@ Github links to systems and applications created with a wide variety of programm
 ## C#
 - [Competition Platform](https://github.com/danrohangit/CompetitionPlatform)
 - [Protect The Earth Platform](https://github.com/danrohangit/Protect_The_Earth)
+
+## Python
+- [Flask with Weather API](https://github.com/danrohangit/Python_Flask)
+
+## UiPath
+- [Web scraping](https://github.com/danrohangit/UiPath_Scraping)
